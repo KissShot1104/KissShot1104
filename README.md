@@ -1,5 +1,4 @@
-## Hi there 👋
-![Project Logo](https://markdownlivepreview.com/image/sample.webp)
+![cat](https://github.com/KissShot1104/KissShot1104/assets/134862092/9f6f023f-8a2b-48ce-81ca-25173cbef583)
 <!--
 **KissShot1104/KissShot1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
